@@ -1,4 +1,4 @@
-# Data Analytics Course Project
+# Data Analytics Course Project (Python)
 
 This project is the final project of the Data Analytics course, which was the last of five courses of my 4.5 months long Data Analyst retraining. It's purpose was to show what I had learned during the course, to show my thought process and structure, how I handle new data and how I explore it.
 
