@@ -4,7 +4,7 @@ This project is the final project of the Data Analytics course, which was the la
 
 This project was initially documented in German and with the help of [deepl](https://www.deepl.com/translator) translated into English.
 
-*Please use the links bekow to view the html files!*
+*Please use the links below to view the html files!*
 
 ## Files
 - data_abschlussprojekt.csv: *will be provided soon* | the initial dataset
